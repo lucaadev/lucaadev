@@ -1,7 +1,7 @@
-### Hi there 👋
+# Oiiii! Eu sou o Lucas Cavalcante 🙂
 
 <!--
-<h1 Hello!!!😄
+<h1 
     Welcome to my GitHub.
 </h1>
 
