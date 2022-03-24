@@ -4,6 +4,7 @@
 <div>
   <a href="https://github.com/lucaadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="150em" src="" />
     <br>
     <br>
 </div>
@@ -34,7 +35,7 @@
 #### Módulo 1:
  - ✔️ Unix and Bash
  - ✔️ Git and Github
- - ✔️ Markdown ~~of course or I wouldn't be able to write this lol~~ 
+ - ✔️ Markdown
  - ✔️ Html
  - ✔️ CSS 
  - ✔️ Javascript
