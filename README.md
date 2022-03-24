@@ -66,7 +66,7 @@
  <br>
   
   <div>
-    <img align="right" height="180em" width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaadev&layout=compact&langs_count=7&theme=dracula" />
+    <img align="left" height="180em" width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaadev&layout=compact&langs_count=7&theme=dracula" />
     <br>
     <br>
   </div>
