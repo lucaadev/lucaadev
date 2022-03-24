@@ -69,6 +69,8 @@
     <img align="right" height="180em" width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaadev&layout=compact&langs_count=7&theme=dracula" />
   </div>
   
+  <br>
+  
   <span>Contato:</span>  
 <div> 
   <a href="https://app.slack.com" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
