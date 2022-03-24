@@ -3,8 +3,19 @@
   <br>
 <div>
   <a href="https://github.com/lucaadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="150em" src="" />
+  <img style:"margin-right: 50px" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    ﾠ
+    ﾠ
+    ﾠ
+    ﾠ
+    ﾠ
+    ﾠ
+    ﾠ
+    ﾠ
+    ﾠ
+    ﾠ
+    ﾠ
+  <img height="180em" src="developer.gif" />
     <br>
     <br>
 </div>
