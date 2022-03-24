@@ -13,7 +13,7 @@
     ﾠ
     ﾠ
     ﾠ
-  <img height="180em" width="400em" src="developer.gif" />
+  <img height="180em" width="250em" src="developer.gif" />
     <br>
     <br>
 </div>
