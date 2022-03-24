@@ -13,8 +13,6 @@
     ﾠ
     ﾠ
     ﾠ
-    ﾠ
-    ﾠ
   <img height="180em" src="developer.gif" />
     <br>
     <br>
