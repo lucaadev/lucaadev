@@ -1,14 +1,17 @@
 ## Oiiii! Eu sou o LucaaDev 🙂
   <p> - 🖥️ Estudando Desenvolvimento Web na Trybe.</p>
   <br>
-<div>
+  
+  
+<div style="display: block" align="center">
   <a href="https://github.com/lucaadev">
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaadev&layout=compact&langs_count=7&theme=dracula" />
-    ﾠ
-  <img height="180em" width="250em" src="developer.gif" />
+     <img align="center" height="180em" width="250em" src="developer.gif" />
+    <br>
+    <br>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <br>
+    <br>
+  <img align="center" height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaadev&layout=compact&langs_count=7&theme=dracula" />
     <br>
     <br>
 </div>
