@@ -3,7 +3,8 @@
   <br>
 <div>
   <a href="https://github.com/lucaadev">
-  <img style:"margin-right: 50px" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaadev&layout=compact&langs_count=7&theme=dracula" />
+  <img style:"margin-right: 50px" width="300em" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     ﾠ
     ﾠ
   <img height="180em" width="250em" src="developer.gif" />
