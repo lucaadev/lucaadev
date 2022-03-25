@@ -1,11 +1,8 @@
 ## Oiiii! Eu sou o LucaaDev 🙂
   <p> - 🖥️ Estudando Desenvolvimento Web na Trybe.</p>
-  <br>
-  
   
 <div style="display: block" align="center">
   <a href="https://github.com/lucaadev">
-    <br>
     <br>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <br>
@@ -14,7 +11,7 @@
     <br>
     <br>
 </div>
-<div align="right" >
+<div align="center" >
   <img height="180em" width="250em" src="developer.gif" />
 </div>
   
