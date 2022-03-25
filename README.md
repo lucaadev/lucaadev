@@ -1,5 +1,5 @@
 ## Oiiii! Eu sou o LucaaDev 🙂
-  <p> - 🖥️ Estudando Desenvolvimento Web na Trybe.</p>
+ 
   
 <div style="display: block" align="center">
   <a href="https://github.com/lucaadev">
