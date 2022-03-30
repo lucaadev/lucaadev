@@ -1,4 +1,4 @@
-## Oiiii! Eu sou o LucaaDev 🙂
+## Oiiii! Eu sou o Lucas.
  
   
 <div style="display: block" align="center">
