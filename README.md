@@ -57,14 +57,14 @@
  - ✔️ Context api
  - ✔️ React Hooks 
  #### Módulo 3:
- - ⌛ Docker
- - ⌛ SQL
- - ⌛ Node.js (Architecture: Rest and Restful, ORM and Authentication)
- - ⌛ Deployment
- - ⌛ Typescript
- - ⌛ POO and Solid 
- - ⌛ MongoDB
- - ⌛ VPS CI/CD
+ - ✔️ Docker
+ - ✔️ SQL
+ - ✔️ Node.js (Architecture: Rest and Restful, ORM and Authentication)
+ - ✔️ Deployment
+ - ✔️ Typescript
+ - ✔️ POO and Solid 
+ - ✔️ MongoDB
+ - ✔️ VPS CI/CD
   #### Módulo 4:
  - ⌛ Python
  - ⌛ Web Scraping 
