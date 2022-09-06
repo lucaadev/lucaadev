@@ -1,4 +1,7 @@
 ## Oiiii! Eu sou o Lucas.
+
+  ### 20 anos, de Ouro Preto - MG.
+  ### Gosto de séries, animes, um bom churrasco no final de semana e, como todo bom programdor, gosto de um cafézinho!!!
  
   
 <div style="display: block" align="center">
