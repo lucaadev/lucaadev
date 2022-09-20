@@ -1,7 +1,8 @@
 ## Oiiii! Eu sou o Lucas.
 
-  ### Tenho 21 anos, sou de Ouro Preto - MG.
-  ### Gosto de séries, animes, um bom churrasco no final de semana e, como todo bom programdor, gosto de um cafézinho!!!
+  ### Tenho 21 anos, sou de Ouro Preto - MG :smile:.
+  ### :green_heart: Meu objetivo é facilitar a vida das pessoas através da programação.
+  ### :mortar_board: Estudante de desenvolvimento web na trybe!
  
   
 <div style="display: block" align="center">
