@@ -1,8 +1,9 @@
 ## Oiiii! Eu sou o Lucas.
 
   ### Tenho 21 anos, sou de Ouro Preto - MG :smile:.
+  ### :hearts: Gosto de Basquete :basketball:, Futebol :soccer:, Video Games :video_game:
   ### :green_heart: Meu objetivo é facilitar a vida das pessoas através da programação.
-  ### :mortar_board: Estudante de desenvolvimento web na trybe!
+  ### :mortar_board: Formado em desenvolvimento web na trybe!
  
   
 <div style="display: block" align="center">
@@ -30,6 +31,8 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Mongo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Lucas-MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Lucas-VSCode" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
   <img align="center" alt="Lucas-Slack" height="30" width="40" src="https://icongr.am/devicon/slack-original.svg?size=128&color=currentColor">
   <img align="center" alt="Lucas-Npm" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
@@ -70,9 +73,9 @@
  - ✔️ MongoDB
  - ✔️ VPS CI/CD
   #### Módulo 4:
- - ⌛ Python
- - ⌛ Web Scraping 
- - ⌛ Data structuring 
+ - ✔️ Python
+ - ✔️ Web Scraping 
+ - ✔️ Data structuring 
  <br>
  <br>
   
