@@ -1,10 +1,8 @@
-## Oiiii! Eu sou o Lucas.
+## E aí! Eu sou o Lucas.
 
-  ### Tenho 21 anos, sou de Ouro Preto - MG :smile:.
+  ### Tenho 22 anos, sou de Ouro Preto - MG :smile:.
   ### :hearts: Gosto de Basquete :basketball:, Futebol :soccer:, Video Games :video_game:
   ### :green_heart: Meu objetivo é facilitar a vida das pessoas através da programação.
-  ### :mortar_board: Formado em desenvolvimento web na trybe!
- 
   
 <div style="display: block" align="center">
   <a href="https://github.com/lucaadev">
@@ -23,9 +21,7 @@
   ##
 
   <div style="display: inline_block">
-    <h2>Linguagens e Frameworks: ⚒️ </h2>
-    <br>
-    
+  <h2>Linguagens e Frameworks: ⚒️ </h2>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -44,44 +40,8 @@
     
 ##
   
-  ### Habilidades desenvolvidas na [Trybe](https://www.linkedin.com/school/betrybe/):  
-#### Módulo 1:
- - ✔️ Unix and Bash
- - ✔️ Git and Github
- - ✔️ Markdown
- - ✔️ Html
- - ✔️ CSS 
- - ✔️ Javascript
- - ✔️ Api consumption
- #### Módulo 2:
- - ✔️ React componenets
- - ✔️ React events and forms
- - ✔️ React Router
- - ✔️ React Componenets lifecycle 
- - ✔️ Agile methoods
- - ✔️ React testing library 
- - ✔️ React redux
- - ✔️ Context api
- - ✔️ React Hooks 
- #### Módulo 3:
- - ✔️ Docker
- - ✔️ SQL
- - ✔️ Node.js (Architecture: Rest and Restful, ORM and Authentication)
- - ✔️ Deployment
- - ✔️ Typescript
- - ✔️ POO and Solid 
- - ✔️ MongoDB
- - ✔️ VPS CI/CD
-  #### Módulo 4:
- - ✔️ Python
- - ✔️ Web Scraping 
- - ✔️ Data structuring 
- <br>
- <br>
-  
   #### Contato:
 <div style="display: block">
-  <a href="https://app.slack.com" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lucasj.cl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucascavalcantelima21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
