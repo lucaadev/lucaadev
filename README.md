@@ -1,8 +1,8 @@
 ## E aí! Eu sou o Lucas.
 
-  ### Tenho 22 anos, sou de Ouro Preto - MG :smile:.
-  ### :hearts: Gosto de Basquete :basketball:, Futebol :soccer:, Video Games :video_game:
-  ### :green_heart: Meu objetivo é facilitar a vida das pessoas através da programação.
+  Gosto de entregar ideias nas mãos das pessoas. Sou um desenvolvedor de software com experiência em JavaScript, React.js, Node.js e bancos de dados relacionais.
+
+  Trabalhado constantemente para aprimorar minhas habilidades e aprender as melhores práticas do mercado. Com bastante experiência na construção de aplicações web modernas e responsivas, estou continuamente motivado a abraçar novos desafios e buscar abordagens inovadoras.
   
 <div style="display: block" align="center">
   <a href="https://github.com/lucaadev">
